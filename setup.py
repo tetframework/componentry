@@ -59,7 +59,7 @@ class optional_build_ext(build_ext):
 
 setup(
     name='componentry',
-    version='0.0.1a',
+    version='0.0.1a1',
     license='GNU Affero General Public License v3 or later (AGPLv3+)',
     description='A new Zope-inspired component registry',
     long_description='%s\n%s' % (
